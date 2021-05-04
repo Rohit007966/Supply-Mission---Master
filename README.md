@@ -1,2 +1,1 @@
-# Supply-Mission---Master
-Delivering the package
+# SupplyMission
